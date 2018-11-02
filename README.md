@@ -1,4 +1,4 @@
-Quala: Type Qualifiers for LLVM/Clang
+RCUQuala: Type Qualifiers for LLVM/Clang
 =====================================
 
 <img src="qτ.jpeg" align="right" width="256" height="256" alt="qτ the koala">
